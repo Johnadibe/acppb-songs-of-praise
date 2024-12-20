@@ -131,5 +131,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Acknowledgments
 
-- Special thanks to the ACPPB fellowship for inspiring this project.
+- Special thanks to the ACPPB members for inspiring this project.
 - Gratitude to the contributors and future developers who will enhance this tool.
