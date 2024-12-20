@@ -12,7 +12,7 @@ export default function SongList({ songs, onSelectSong }: SongListProps) {
             {songs.map((song) => (
                 <li
                     key={song.id}
-                    className="p-4 bg-white shadow rounded cursor-pointer hover:bg-gray-100"
+                    className="p-4 bg-white shadow rounded cursor-pointer hover:bg-gray-100 text-black"
                     onClick={() => onSelectSong(song)}
                 >
                     <h3 className="text-lg font-bold">{song.lyrics.length > 100 ? song.lyrics.slice(0, 100) + "..." : song.lyrics}</h3>
