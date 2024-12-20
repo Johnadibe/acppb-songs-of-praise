@@ -16,7 +16,7 @@ export default function SongBrowser() {
         const fetchSongs = async () => {
             setLoading(true);
             try {
-                const response = await fetch(process.env.NEXT_PUBLIC_SONGS_URL!);
+                const response = await fetch(process.env.NEXT_PUBLIC_SONGS_URL || '/data/songs_of_praise.json');
                 if (!response.ok) {
                     throw new Error('Failed to fetch songs');
                 }
