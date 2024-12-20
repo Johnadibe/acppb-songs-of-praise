@@ -58,7 +58,7 @@ This project is intended to grow over time, with the possibility of adding featu
 
    ```bash
    git clone https://github.com/Johnadibe/acppb-songs-of-praise-app.git
-   cd acppb-songs-of-praise
+   cd acppb-songs-of-praise-app
    ```
 
 2. Install dependencies:
