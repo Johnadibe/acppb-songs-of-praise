@@ -12,7 +12,7 @@ export default function Home() {
         <SongBrowser />
       </main>
 
-      <footer className="text-center py-4 bg-gray-200">
+      <footer className="text-center py-4 bg-gray-200 text-black">
         <p>Developed by John Adibe</p>
       </footer>
     </div>
