@@ -4,7 +4,7 @@
 
 The **ACPPB Songs of Praise** is a Next.js web application built with TypeScript. This project provides an intuitive interface for users to search and browse songs from ACPPB's Songs of Praise, helping members learn and sing songs proficiently. The application emphasizes simplicity, performance, and scalability, ensuring a smooth experience for users.
 
-This project is intended to grow over time, with the possibility of adding features and enhancements. It serves as a valuable tool for the church fellowship and others who cherish these songs.
+This project is intended to grow over time, with the possibility of adding features and enhancements. It serves as a valuable tool for the chapel fellowship and others who cherish these songs.
 
 ---
 
