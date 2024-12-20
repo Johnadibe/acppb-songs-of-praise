@@ -11,6 +11,10 @@ export default function Home() {
       <main>
         <SongBrowser />
       </main>
+
+      <footer className="text-center py-4 bg-gray-200">
+        <p>Developed by John Adibe</p>
+      </footer>
     </div>
   );
 }
