@@ -8,7 +8,7 @@ export default function SearchHeader({ search, onSearchChange }: SearchHeaderPro
             <h1 className="text-xl font-bold text-center">ACPPB Songs of Praise</h1>
             <input
                 type="text"
-                placeholder="Search for a song..."
+                placeholder="Search for acppb song..."
                 className="w-full p-2 mt-2 rounded text-black"
                 value={search}
                 onChange={(e) => onSearchChange(e.target.value)}
